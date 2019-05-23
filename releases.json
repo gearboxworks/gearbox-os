@@ -1,7 +1,7 @@
 {
   "releases": {
     "type": "production",
-    "url": "https://raw.githubusercontent.com/gearboxworks/gearbox-os/master/gearbox-0.5.0.iso",
+    "url": "https://github.com/gearboxworks/gearbox-os/raw/master/iso/gearbox-0.5.0.iso",
     "version": "0.5.0",
     "title": "Gearbox OS Release 0.5.0",
     "description": "This is a pre-production release of the Gearbox OS ISO image. Refer to https://gearbox.works/ for more information.",
